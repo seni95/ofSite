@@ -2588,7 +2588,7 @@ Rotate relative to current orientation around arbitrary axis around point.
 
 **Parameters:**
 
-param0 Desired relative angle change in degrees as float.
+param0 Desired relative angle change in radians as float.
 
 param1 The arbitrary axis to rotate around as ref to cartesian 3D vector.
 
